@@ -4,7 +4,7 @@ import axios from 'axios';
 
 function Principal() {
     const CLIENT_ID = "604059900c384dee93a2c1f39bd1c749"
-    const REDIRECT_URI = "http://localhost:3000/Principal"
+    const REDIRECT_URI = "https://spotify-prueba-coral.vercel.app/Principal"
     const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
     const RESPONSE_TYPE = "token"
 

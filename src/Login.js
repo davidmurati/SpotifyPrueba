@@ -108,7 +108,7 @@ function Login() {
       </label>
       <button className="boton" type="submit">Iniciar sesión</button  >
 
-      <textarea value={JSON.stringify(clave)} readOnly />
+      {/*<textarea value={JSON.stringify(clave)} readOnly />*/}
 
       
     </div> 
